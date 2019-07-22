@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab385532895bbb88331ab370ad95ba5e",
+    "revision": "ff4fa612e88158c85fbf4d5a52c87c8c",
     "url": "/shopware5-react/index.html"
   },
   {
-    "revision": "8de5bf1facd8f4377c4b",
+    "revision": "b3702151264de59a358c",
     "url": "/shopware5-react/static/css/main.34de6062.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shopware5-react/static/js/2.666dc7ae.chunk.js"
   },
   {
-    "revision": "8de5bf1facd8f4377c4b",
-    "url": "/shopware5-react/static/js/main.1afd7570.chunk.js"
+    "revision": "b3702151264de59a358c",
+    "url": "/shopware5-react/static/js/main.4a54e9b1.chunk.js"
   },
   {
     "revision": "1ed7515bd7926da7634a",

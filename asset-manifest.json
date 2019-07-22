@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/shopware5-react/static/css/main.34de6062.chunk.css",
-    "main.js": "/shopware5-react/static/js/main.1afd7570.chunk.js",
-    "main.js.map": "/shopware5-react/static/js/main.1afd7570.chunk.js.map",
+    "main.js": "/shopware5-react/static/js/main.4a54e9b1.chunk.js",
+    "main.js.map": "/shopware5-react/static/js/main.4a54e9b1.chunk.js.map",
     "runtime~main.js": "/shopware5-react/static/js/runtime~main.57d8ed47.js",
     "runtime~main.js.map": "/shopware5-react/static/js/runtime~main.57d8ed47.js.map",
     "static/js/2.666dc7ae.chunk.js": "/shopware5-react/static/js/2.666dc7ae.chunk.js",
     "static/js/2.666dc7ae.chunk.js.map": "/shopware5-react/static/js/2.666dc7ae.chunk.js.map",
     "index.html": "/shopware5-react/index.html",
-    "precache-manifest.0e6531700d1bed1e80833d6a256ca0c6.js": "/shopware5-react/precache-manifest.0e6531700d1bed1e80833d6a256ca0c6.js",
+    "precache-manifest.174b9b1f24425835b27bfa214380d0bc.js": "/shopware5-react/precache-manifest.174b9b1f24425835b27bfa214380d0bc.js",
     "service-worker.js": "/shopware5-react/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/shopware5-react/static/css/main.34de6062.chunk.css.map"
   }
